@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Peter Luitjens</h1>
-<h3 align="center">A full-stack developer from Mesa, AZ</h3>
+<h1 align="center">Hi, my name is Peter Luitjens</h1>
+<h3 align="center">A full-stack web developer from Mesa, AZ</h3>
 
 - 👨‍💻 All of my projects are available at [https://peterluitjens.netlify.app/](https://peterluitjens.netlify.app/)
 

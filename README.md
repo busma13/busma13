@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Luitjens</h1>
 <h3 align="center">A full-stack web developer from Mesa, AZ</h3>
 
-- 🔭 I’m currently working on Doorbell Designs
+- 🔭 I’m currently working on [Doorbell Designs](https://doorbelldesigns.com/)
 
 - 👯 I host meetups at [Arizona Codes](https://www.meetup.com/arizona-codes/)
 
